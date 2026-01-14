@@ -1,6 +1,6 @@
 # Simulador de Escalonamento de Processos
 
-Este projeto é um simulador de escalonamento de CPU desenvolvido para a disciplina de Sistemas Operacionais. O objetivo é reproduzir o comportamento de diferentes algoritmos de escalonamento e analisar métricas de desempenho de um conjunto de tarefas.
+Este projeto é um simulador de escalonamento de CPU. O objetivo é reproduzir o comportamento de diferentes algoritmos de escalonamento e analisar métricas de desempenho de um conjunto de tarefas.
 
 ## O Projeto
 O simulador lê uma lista de processos (contendo data de criação, duração e prioridade) e processa a execução conforme a política escolhida, gerando um diagrama de tempo e estatísticas de execução.
